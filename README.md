@@ -76,10 +76,14 @@
 ---
 
 <!-- ACTIVITY GRAPH -->
+
 <h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ofaturu&theme=github-compact&hide_border=true"
+    width="100%"
+  />
 </p>
 
 ---
