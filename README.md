@@ -6,7 +6,7 @@
 
 <!-- INTRODUCTION -->
 <h1 align="center">
-  Hi 👋, I'm Fatchur
+  Hi 👋, I'm Fatchur Rachman
 </h1>
 
 <h3 align="center">
