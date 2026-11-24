@@ -1,7 +1,7 @@
 
 <!-- HERO BANNER -->
 <div align="center">
-  <img src="assets/banner.png" width="100%" alt="Fatchur Rachman Banner" />
+  <img src="assets/banner.gif" width="100%" alt="Fatchur Rachman Banner" />
 </div>
 
 <!-- INTRODUCTION -->
